@@ -6,13 +6,13 @@
   <a href="https://www.facebook.com/bekzodToxtamuratov/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Bekzod Toxtamuratov's Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/bekzodtoxtamuratov" target="blank">
+  <a href="https://instagram.com/samiyyaazizkhanova" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samiyyaazizkhanova" height="30" width="40" />
   </a>
-  <a href="https://t.me/FullStackDeveloper3" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Your Telegram" height="30" width="40" />
+  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Your Telegram" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
+  <a href="https://linkedin.com/in/FullStackDeveloper3" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn" height="30" width="40" />
   </a>
 </p>
@@ -68,7 +68,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="nestjs" width="40" height="40" />
+    <img src="https://d33wubrfki0l68.cloudfront.net/7aebf57d4873c53cc0307d1f9704ea9cb30a56d1/666a8/images/logo.svg" alt="nestjs" width="40" height="40" />
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
@@ -95,6 +95,4 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  </a>
-  <a href="https://vuejs.org/" target="_
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/types
