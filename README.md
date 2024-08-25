@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bekzod</h1>
 <h3 align="center">Fullstack developer in Uzbekistan</h3>
 
-//<img src="/mnt/data/A_simple_illustration_of_a_young_boy_with_short_br.png" alt="Illustration of a young boy">
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
