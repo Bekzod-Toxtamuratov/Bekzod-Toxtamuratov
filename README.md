@@ -77,9 +77,7 @@
   - Dates of employment: 2024 - Present  
   - Main responsibilities and projects: ...
   
-- **Company 2** - Backend Developer  
-  - Dates of employment: 2018 - 2020  
-  - Main responsibilities and projects: ...
+
 
 ## Education
 
