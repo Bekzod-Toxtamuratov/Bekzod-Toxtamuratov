@@ -1,42 +1,43 @@
-# Bekzod Toxtamuratov
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bekzod Toxtamuratov - FullStack Developer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      color: #333;
+    }
+    .contact-links a {
+      text-decoration: none;
+      color: #007bff;
+      margin: 0 10px;
+    }
+    .skills img {
+      max-width: 100%;
+      height: auto;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bekzod Toxtamuratov</h1>
+  <p>FullStack dasturchisi</p>
+  
+  <div class="contact-links">
+    <a href="https://t.me/HikmatullohAbdullayev" target="_blank">💬 Telegram</a> | 
+    <a href="mailto:hikmatullohabdullayev2@gmail.com">📧 hikmatullohabdullayev2@gmail.com</a>
+  </div>
 
-Frontend dasturchi.
+  <h2>I know how to program these technologies very well</h2>
 
- [💬 Telegram](https://t.me/HikmatullohAbdullayev) | 📧 hikmatullohabdullayev2@gmail.com
-
-
-## Texnologiyalar
-
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> 
- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-
-<a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-<a href="https://styled-components.com" target="_blank" rel="noreferrer">
-    <img src="https://www.wappalyzer.com/images/icons/styled-components.svg" alt="Styled Components" width="40" height="40"/></a>
-    
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-
-
-
-</p>
-
-<h1>
-  i'm a vue.js fanboy, but i do some other stuff too :hammer:
-</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/skills.svg">
-  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/skills"> -->
-</p>
+  <div class="skills">
+    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/skills.svg" alt="Bekzod's Programming Skills">
+  </div>
+</body>
+</html>
