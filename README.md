@@ -2,7 +2,7 @@
 
 **FullStack dasturchisi**
 
-[💬 Telegram](https://t.me/HikmatullohAbdullayev) | 📧 hikmatullohabdullayev2@gmail.com
+[💬 Telegram](https://t.me/FullStackDeveloper3) | 📧 bekzodtoxtamuratov@gmail.com
 
 ## Texnologiyalar
 
