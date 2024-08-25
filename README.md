@@ -6,10 +6,10 @@
   <a href="https://www.facebook.com/bekzodToxtamuratov/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Bekzod Toxtamuratov's Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/samiyyaazizkhanova" target="blank">
+  <a href="https://instagram.com/bekzodtoxtamuratov" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samiyyaazizkhanova" height="30" width="40" />
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="blank">
+  <a href="https://t.me/FullStackDeveloper3" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Your Telegram" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
