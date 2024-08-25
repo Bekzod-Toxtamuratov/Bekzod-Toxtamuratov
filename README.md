@@ -9,7 +9,7 @@
   <a href="https://instagram.com/samiyyaazizkhanova" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samiyyaazizkhanova" height="30" width="40" />
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="blank">
+  <a href="https://t.me/https://t.me/FullStackDeveloper3" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Your Telegram" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/FullStackDeveloper3" target="blank">
