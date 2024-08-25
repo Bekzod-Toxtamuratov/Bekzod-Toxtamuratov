@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/Experience-FFD700?style=for-the-badge&logo=star&logoColor=black" alt="Experience">
 </p>
 
-- **Company 1** - FullStack Developer  
+- **TATU University ** - FullStack Developer  
   - Dates of employment: 2024 - Present  
   - Main responsibilities and projects: ...
   
