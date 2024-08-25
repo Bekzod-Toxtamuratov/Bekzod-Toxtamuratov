@@ -6,7 +6,7 @@
 
 ## Texnologiyalar
 
-### Dasturlash tillari va texnologiyalar
+###Programming languages ​​and technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -74,7 +74,7 @@
 ## Tajriba
 
 - **Kompaniya 1** - FullStack Dasturchi
-  - Ishlagan sanalar: 2020 - Hozirgi
+  - Ishlagan sanalar: 2024 - Hozirgi
   - Asosiy mas'uliyatlar va loyihalar: ...
 - **Kompaniya 2** - Backend Dasturchi
   - Ishlagan sanalar: 2018 - 2020
@@ -82,8 +82,8 @@
 
 ## Ta'lim
 
-- **Oliy o'quv yurti** - Kompyuter Ilmlari
-  - Bakalavr, 2014 - 2018
+- **Oliy o'quv yurti** - O'zbekiston Milliy Universiteti
+  - Bakalavr, 2019 - 2023
   - Darslar: ...
 
 ## Bog'lanish
