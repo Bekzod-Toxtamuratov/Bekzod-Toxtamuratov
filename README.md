@@ -1,12 +1,11 @@
 # Bekzod Toxtamuratov
 
-**FullStack dasturchisi**
+**FullStack programmer**
 
 [💬 Telegram](https://t.me/FullStackDeveloper3) | 📧 bekzodtoxtamuratov@gmail.com
 
-## Texnologiyalar
+## Programming languages ​​and technologies
 
-###Programming languages ​​and technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -53,7 +52,7 @@
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI">
 </p>
 
-### DevOps va Asboblar
+### DevOps and instruments
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -66,12 +65,12 @@
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack">
 </p>
 
-## Loyihalar
+## proyekts
 
-- **[Loyiha 1](#)**: Loyihangizning qisqacha tavsifi va unga havola.
-- **[Loyiha 2](#)**: Loyihangizning qisqacha tavsifi va unga havola.
+- **[proyekt 1](#)**: roject serves taxis for passenger transportation
+- **[proyekt 2](#)**: it accepts bowls to doctors
 
-## Tajriba
+## experience
 
 - **Kompaniya 1** - FullStack Dasturchi
   - Ishlagan sanalar: 2024 - Hozirgi
@@ -80,12 +79,12 @@
   - Ishlagan sanalar: 2018 - 2020
   - Asosiy mas'uliyatlar va loyihalar: ...
 
-## Ta'lim
+## Education
 
-- **Oliy o'quv yurti** - O'zbekiston Milliy Universiteti
+- **University** - National University of Uzbekistan
   - Bakalavr, 2019 - 2023
-  - Darslar: ...
+  - subjects: ...
 
-## Bog'lanish
+## Contact
 
 - **Telegram**: [FullStackDeveloper3](https
